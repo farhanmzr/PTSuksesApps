@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">PT Sukses App</string>
+    <string name="tv_register">Form Pendaftaran</string>
+    <string name="masuk">Masuk</string>
+    <string name="belum_punya_akun">Belum punya akun?</string>
+    <string name="daftar_disini">Daftar Disini</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="pt_sukses_2020">PT SUKSES 2020</string>
+    <string name="hallo">Hallo,</string>
+    <string name="edit_nprofil">EDIT\nPROFIL</string>
+    <string name="pengumuman">PENGUMUMAN</string>
+    <string name="data_npegawai">DATA\nPEGAWAI</string>
+    <string name="keluar">KELUAR</string>
+    <string name="nik">NIK</string>
+    <string name="nama_lengkap">Nama Lengkap</string>
+    <string name="jenis_kelamin">Jenis Kelamin</string>
+    <string name="laki_laki">Laki-laki</string>
+    <string name="email">Email</string>
+    <string name="alamat">Alamat</string>
+    <string name="pendidikan">Pendidikan</string>
+    <string name="nomor_handphone">Nomor Handphone</string>
+    <string name="tanggal_lahir">Tanggal Lahir</string>
+    <string name="perempuan">Perempuan</string>
+    <string name="hh_bb_tttt">HH/BB/TTTT</string>
+    <string name="konfirmasi_password">Konfirmasi Password</string>
+    <string name="daftar">Daftar</string>
+    <string name="sudah_punya_akun">Sudah punya akun?</string>
+    <string name="silahkan_login">Silahkan Login</string>
+    <string name="nama">Nama</string>
+    <string name="tampilan_daftar_pegawai">TAMPILAN DAFTAR PEGAWAI</string>
+    <string name="back">BACK</string>
+</resources>
